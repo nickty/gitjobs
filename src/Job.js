@@ -7,7 +7,6 @@ const Job = ({job}) => {
     const [open, setOpen] = useState(false)
 
     return (
-        
         <Card className="mb-3">
             
             <Card.Body>
